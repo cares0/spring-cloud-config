@@ -1,6 +1,0 @@
-token:
-  secret: user_token_dev
-  expiration_time: 86400000
-
-gateway:
-  ip: 112.158.146.30
