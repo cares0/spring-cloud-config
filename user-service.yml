@@ -1,18 +1,12 @@
 spring:
   datasource:
     driver-class-name: org.h2.Driver
-    url: '{cipher}AQAM8n+CTo7H7GQ6syPbHLQi9aCwFVr9Qv6Ocs/r1srB35b/1zOHo/+qDZoUmi19uGwk5drU9HiVNV1zB1ComTQi3JdKKr1HRZ
-    8wzXx6YjU3EAoj6X1d/GDLfRzCF9xBB1JIDlpfuxpDKkmz9uc+2C3zaJGw9G8L29XVIGtI9LYlkt1NndfQKAPr2m7VYCdXsuHj0sP3EdniHr6BI7L
-    9Tu/XQlmIlB8vbeLMJnYx1jYq1E6g/ZctslhPU3fUqm36M5K2tWMRUZwUAhPcFSdawC3W
-    wMdN8/NwJRs9NWlAfIwwQj2K+ivTuPhrk1qV/YQO3wCFLSTUk1Ks0u4O/CuS801UBQhSNK05RJuStNVoinskh+jiZeUtdCpriMTnu6B+uPr6XBGbHAeYiqUnkvBSrgM0'
+    url: '{cipher}27ca2d0dab79d81ef85c581781a9c2ecd75b124d64be6719b4ebe0f072ee42e08de09bef591e71bc03241b0b76589ac7'
     username: sa
     password:
 
 token:
-  secret: '{cipher}AQCRAFtlfX51i1TKcxcsvYkOqub2reOzDb+8/pWtJ4IRYzpYfObmLpFnKnn2wvreXpMbJTXXU46bgwwnmAp2RW7
-  eqiNK+BxzvFavGJxEkyHUdZ8wYCcVRD0E1LXbummu/PElWh8u4tNyBFq2aOy4ckw7ntQB0u2Q4jxLdEHDQWy5vyI9V3KLA/FyFqESvHp8+aP0Ct
-  AllDDZ19j8dJGXuA9A8MqW0LmcYrRniZQRZnhil5xxYMNNlzF4BSKpGMe8oRfzMw/pL+T78O/z8SoigFYW0hZbIkK
-  +UGZvcRQ9LeQD2P0t6koKLW/PqT5E58Knk3eE3VAQaWdmOuR50f5f9dHGsG3KL/9KOnxIS9NzYJdDPtJwRnkxroYefZPn7XdPpZjgW/ZGEPNrbAfOUGrXqyg7'
+  secret: '{cipher}49cb9cc20876916a8447a8d758474df35572956558da02cb0de5d197109041599721210abd3557dfbb7290809f81ff14'
   expiration_time: 86400000
 
 gateway:
