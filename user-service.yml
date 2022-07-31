@@ -1,12 +1,20 @@
 spring:
   datasource:
     driver-class-name: org.h2.Driver
-    url: '{cipher}2a375a5bd968e9ec3b61aecf93ba98868292a0749e9863c32c6c6b41b478f24b7b3739c970d7eff48c7dcc25b7334058'
+    url: '{cipher}AQCHcwIa2K8V4mlfQ5N4UCyUEYXSX0AAR0d0qApPGjYnQv+hWTv8JAoYmVSa0GufKPw2qJAT/
+    6j3LqMRMu1GzNjj2W44ZO0BpmP/+ZTQ/E8B3r288mUtCs1uHVbAmD1dPo+hLVR8xnivP+JgRuJzJc7ifPySs
+    VWVExmIWuzhA8LE3ZCzYHm0hL //3hmwb6Pay+w8K6Ta+WEmSgBm8yd4eYIx0br7R75ZhsgTHiQG7UNI4ypH
+    gSggU/HaejjyhzL8zA0UCDtDaNLTiIdbPtV5doFziRjL0lhw1zmHLx0gCM1T6G0vinv6t7HZU2AhuqtXdhslB
+    kx9xHejzG8Si9+090kZBel7PIWZEGsNtt6iPKGJrnWMGiQ0qSSiWWVykGOOC/wHckiS28YX0Lbsr3j5QY/+'
     username: sa
     password:
 
 token:
-  secret: user_token_change3
+  secret: '{cipher}AQBxSeQX0474bNHDoIfWf9h0PUUXH2YgPj5eL9UXrjZm/Kg/zPxDWOuZiFc4h3DxqUifHFaDEQggZU97vvapg
+  ZVRUXJftS1wzrWEwokIgpxzpfkGvj2t1/uLlAmdSdX4IviZ7fjjzrICUniEs0IR3t6cQIOud3Q93sHD+fi4++5aTiQmehEDN
+  +KJ/GV95MPo/CPyd+p/bFxaHdtC8mBGy3/Fgdu4c03rNgRn4fci5AmYggYr7vgm1IVR4mnGdEQGne7emrItIcNLZ0EJ3a0cJ
+  eS8/skXxZGxqeXqr3Lsag1y5HmhhYatNyeJ+dOdbfUojOYY2QDKH4NZpmvwYBZOJ6Ot/8SwmVkZsgB7tU4DpeIibxcxHzgm
+  Ebdd6kxaQpUZqwb75w6c/zdHYdpDlzRIsMpo'
   expiration_time: 86400000
 
 gateway:
