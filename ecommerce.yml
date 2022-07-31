@@ -1,5 +1,5 @@
 token:
-  secret: user_token_change2
+  secret: user_token_change3
   expiration_time: 86400000
 
 gateway:
