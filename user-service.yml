@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: '{cipher}2a375a5bd968e9ec3b61aecf93ba98868292a0749e9863c32c6c6b41b478f24b7b3739c970d7eff48c7dcc25b7334058'
+    username: sa
+    password:
+
+token:
+  secret: user_token_change3
+  expiration_time: 86400000
+
+gateway:
+  ip: 112.158.146.30
