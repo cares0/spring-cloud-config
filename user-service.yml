@@ -1,20 +1,18 @@
 spring:
   datasource:
     driver-class-name: org.h2.Driver
-    url: '{cipher}AQCHcwIa2K8V4mlfQ5N4UCyUEYXSX0AAR0d0qApPGjYnQv+hWTv8JAoYmVSa0GufKPw2qJAT/
-    6j3LqMRMu1GzNjj2W44ZO0BpmP/+ZTQ/E8B3r288mUtCs1uHVbAmD1dPo+hLVR8xnivP+JgRuJzJc7ifPySs
-    VWVExmIWuzhA8LE3ZCzYHm0hL //3hmwb6Pay+w8K6Ta+WEmSgBm8yd4eYIx0br7R75ZhsgTHiQG7UNI4ypH
-    gSggU/HaejjyhzL8zA0UCDtDaNLTiIdbPtV5doFziRjL0lhw1zmHLx0gCM1T6G0vinv6t7HZU2AhuqtXdhslB
-    kx9xHejzG8Si9+090kZBel7PIWZEGsNtt6iPKGJrnWMGiQ0qSSiWWVykGOOC/wHckiS28YX0Lbsr3j5QY/+'
+    url: '{cipher}AQAM8n+CTo7H7GQ6syPbHLQi9aCwFVr9Qv6Ocs/r1srB35b/1zOHo/+qDZoUmi19uGwk5drU9HiVNV1zB1ComTQi3JdKKr1HRZ
+    8wzXx6YjU3EAoj6X1d/GDLfRzCF9xBB1JIDlpfuxpDKkmz9uc+2C3zaJGw9G8L29XVIGtI9LYlkt1NndfQKAPr2m7VYCdXsuHj0sP3EdniHr6BI7L
+    9Tu/XQlmIlB8vbeLMJnYx1jYq1E6g/ZctslhPU3fUqm36M5K2tWMRUZwUAhPcFSdawC3W
+    wMdN8/NwJRs9NWlAfIwwQj2K+ivTuPhrk1qV/YQO3wCFLSTUk1Ks0u4O/CuS801UBQhSNK05RJuStNVoinskh+jiZeUtdCpriMTnu6B+uPr6XBGbHAeYiqUnkvBSrgM0'
     username: sa
     password:
 
 token:
-  secret: '{cipher}AQBxSeQX0474bNHDoIfWf9h0PUUXH2YgPj5eL9UXrjZm/Kg/zPxDWOuZiFc4h3DxqUifHFaDEQggZU97vvapg
-  ZVRUXJftS1wzrWEwokIgpxzpfkGvj2t1/uLlAmdSdX4IviZ7fjjzrICUniEs0IR3t6cQIOud3Q93sHD+fi4++5aTiQmehEDN
-  +KJ/GV95MPo/CPyd+p/bFxaHdtC8mBGy3/Fgdu4c03rNgRn4fci5AmYggYr7vgm1IVR4mnGdEQGne7emrItIcNLZ0EJ3a0cJ
-  eS8/skXxZGxqeXqr3Lsag1y5HmhhYatNyeJ+dOdbfUojOYY2QDKH4NZpmvwYBZOJ6Ot/8SwmVkZsgB7tU4DpeIibxcxHzgm
-  Ebdd6kxaQpUZqwb75w6c/zdHYdpDlzRIsMpo'
+  secret: '{cipher}AQCRAFtlfX51i1TKcxcsvYkOqub2reOzDb+8/pWtJ4IRYzpYfObmLpFnKnn2wvreXpMbJTXXU46bgwwnmAp2RW7
+  eqiNK+BxzvFavGJxEkyHUdZ8wYCcVRD0E1LXbummu/PElWh8u4tNyBFq2aOy4ckw7ntQB0u2Q4jxLdEHDQWy5vyI9V3KLA/FyFqESvHp8+aP0Ct
+  AllDDZ19j8dJGXuA9A8MqW0LmcYrRniZQRZnhil5xxYMNNlzF4BSKpGMe8oRfzMw/pL+T78O/z8SoigFYW0hZbIkK
+  +UGZvcRQ9LeQD2P0t6koKLW/PqT5E58Knk3eE3VAQaWdmOuR50f5f9dHGsG3KL/9KOnxIS9NzYJdDPtJwRnkxroYefZPn7XdPpZjgW/ZGEPNrbAfOUGrXqyg7'
   expiration_time: 86400000
 
 gateway:
