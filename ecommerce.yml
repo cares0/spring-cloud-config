@@ -1,5 +1,5 @@
 token:
-  secret: user_token_change3
+  secret: '{cipher}49cb9cc20876916a8447a8d758474df35572956558da02cb0de5d197109041599721210abd3557dfbb7290809f81ff14'
   expiration_time: 86400000
 
 gateway:
