@@ -16,3 +16,15 @@ order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
   exception:
     order_is_empty: Order is empty
+
+spring:
+  messages:
+    basename: validation,messages
+
+logging:
+  level:
+    org:
+      springframework:
+        context:
+          support:
+            ResourceBundleMessageSource: ERROR
